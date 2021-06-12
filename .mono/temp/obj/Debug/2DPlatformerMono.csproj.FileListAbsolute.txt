@@ -1,0 +1,4 @@
+/Users/muhammadyasin/personal/Godot/2DPlatformerMono/.mono/temp/obj/Debug/2DPlatformerMono.csprojAssemblyReference.cache
+/Users/muhammadyasin/personal/Godot/2DPlatformerMono/.mono/temp/obj/Debug/2DPlatformerMono.AssemblyInfoInputs.cache
+/Users/muhammadyasin/personal/Godot/2DPlatformerMono/.mono/temp/obj/Debug/2DPlatformerMono.AssemblyInfo.cs
+/Users/muhammadyasin/personal/Godot/2DPlatformerMono/.mono/temp/obj/Debug/2DPlatformerMono.csproj.CoreCompileInputs.cache
