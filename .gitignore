@@ -2,3 +2,5 @@
 .DS_Store
 
 *.import
+
+.mono
